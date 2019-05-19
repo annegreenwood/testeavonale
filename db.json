@@ -1,0 +1,40 @@
+{
+   "produtos":[
+      {
+         "id":1,
+         "title":"SEGURO PROTEÇÃO FINANCEIRA (SPF)",
+         "resume":"O Seguro de Proteção Financeira foi desenvolvido para garantir a sua proteção para o risco de pagamentos atrasados em caso de desemprego involuntário, de incapacidade para exercer as suas atividades normais, de falecimento ou de invalidez.",
+         "content":"O Seguro de Proteção Financeira (prestamista) foi desenvolvido para garantir a sua proteção para o risco de pagamentos atrasados (inadimplência) em caso de desemprego involuntário, de incapacidade (mesmo que temporária) para exercer as suas atividades normais, de falecimento ou de invalidez. Dessa forma, a seguradora que vendeu o produto será responsável pelo pagamento do valor em atraso.<br><br>O seguro prestamista é uma modalidade do seguro de vida em grupo, que garante a liquidação de sua dívida ou o pagamento de um determinado número de prestações, dependendo da cobertura. Na sua maioria, cobre as seguintes ocorrências:<br><ul><li>Na hipótese de morte natural ou acidental</li><li>De invalidez permanente/total (por acidente ou por doença)</li><li>De desemprego involuntário, no caso de empregado formal</li><li>De perda de renda, se for profissional liberal ou autônomo</li></ul>"
+      },
+      {
+         "id":2,
+         "title":"ASSISTÊNCIA 24H",
+         "resume":"É um Plano de Assistência que garante ao cliente, toda a tranquilidade, nos casos de imprevistos com o veículo como um pneu furado, falta de combustível, pane mecânica, acidente ou perda das chaves entre outras coberturas. Sendo que o atendimento é de 365 dias por ano, em todo território nacional.",
+         "content":"O que é a Assistência Veicular?<br><br>É um Plano de Assistência que garante ao cliente, toda a tranquilidade, nos casos de imprevistos com o veículo como um pneu furado, falta de combustível, pane mecânica, acidente ou perda das chaves entre outras coberturas. Sendo que o atendimento é de 365 dias por ano, em todo território nacional. Sendo que as regras para utilização, são:<br><ul><li>Vigência 12 meses</li><li>Carência de somente 24hs</li><li>Isento de Vistoria Prévia</li><li>Planos com carro reserva e clube de vantagens</li></ul><p><br>Regras de elegibilidade:</p><br><li>Sem limite de quilometragem</li><li>Veículos com idade máxima de até 10 anos de sua fabricação</li><li>Veículos leves (máximo PBT 3.500 Kg)</li><li>Veículos de passeio (serviços públicos, práticas esportivas, competições, locação ou finalidade lucrativa)</li></ul>"
+      },
+      {
+         "id":3,
+         "title":"CORRETORA DE SEGUROS",
+         "resume":"A Segurei é um modelo de franquia inovador, onde o franqueado se torna afiliado de uma rede nacional de seguros, compartilhando uma poderosa estrutura operacional, acordos comerciais, consultorias, tecnologia e produtos com excelentes margens de lucro.",
+         "content":"A Segurei criou e aperfeiçoou uma forma de oferta e gestão de seguros mais eficiente e lucrativa. É um modelo de franquia inovador, onde o franqueado se torna afiliado de uma rede nacional de seguros, compartilhando uma poderosa estrutura operacional, acordos comerciais, consultorias, tecnologia e produtos com excelentes margens de lucro. O afiliado não perde sua identidade e fica tranquilo para se concentrar exclusivamente em VENDAS. Colaboradores qualificados prestam todo o apoio necessário a equipe de vendas. Cuidado com cada proposta transmitida, acompanhando durante toda sua vigência, do pagamento das parcelas até o aviso de renovação.<br><br>Entre os benefícios para o concessionário, estão os seguintes itens:<br><ul><li>Suporte Operacional</li><li>Treinamento</li><li>Super Acordos</li><li>Gestão de Resultados</li><li>Vendas Cruzadas</li><li>SAC – Serviço de Atendimento ao Cliente (ligações gravadas)</li><li>Consultoria Jurídica</li><li>Programa de Fidelidade</li></ul>"
+      },
+      {
+         "id":4,
+         "title":"GARANTIA ESTENDIDA",
+         "resume":"A Garantia Estendida amplia o período de garantia por mais 1 ou 2 anos e oferece garantia de reparos de partes mecânicas e elétricas após o término da garantia de fábrica ou do fornecedor.",
+         "content":"A Garantia Estendida amplia o período de garantia por mais 1 ou 2 anos e oferece garantia de reparos de partes mecânicas e elétricas após o término da garantia de fábrica ou do fornecedor.<br><br>O seguro pode ser contratado para veículos em período de garantia de fábrica ou do fornecedor.<br><br>Entre os benefícios, estão os seguintes itens:<br><ul><li>Ótima relação custo x benefício</li><li>Cobertura em todo território nacional</li><li>Garantia transferível para novo proprietário</li><li>Valorização do veículo na hora da revenda</li><li>Garantia de peças e mão de obra especializada</li></ul>"
+      },
+      {
+         "id":5,
+         "title":"SUPER REVISÃO",
+         "resume":"O conceito é Fidelizar Clientes, pois a retenção dos consumidores é tão importante quanto atraí-los, e Rentabilidade Extra, com a entrada de novas receitas para a concessionária e sua equipe de vendas.",
+         "content":"Seu carro como novo por mais tempo!<br><br>O conceito é Fidelizar Clientes, pois a retenção dos consumidores é tão importante quanto atraí-los, e Rentabilidade Extra, com a entrada de novas receitas para a concessionária e sua equipe de vendas.<br><br>Entre os benefícios, estão os seguintes itens:<br><ul><li>Economia nas Revisões</li><li>Serviços Complementares</li><li>Manutenção da Garantia</li><li>Valorização na Revenda</li><li>Plano de Benefícios</li></ul>"
+      },
+      {
+         "id":6,
+         "title":"FRANQUIA LIVRE",
+         "resume":"Garante o pagamento da franquia do seguro casco, em caso de sinistro e a execução do serviço na oficina da concessionária, após a aprovação do reparo pela seguradora detentora do seguro do automóvel.",
+         "content":"Garante o pagamento da franquia do seguro casco, em caso de sinistro e a execução do serviço na oficina da concessionária, após a aprovação do reparo pela seguradora detentora do seguro do automóvel.<br><br>Entre os benefícios, estão os seguintes itens:<br><ul><li>Tranquilidade na ocasião do sinistro</li><li>Reparo dentro da concessionária</li><li>Seu carro sempre novo</li><li>Sem burocracia</li><li>Facilidade no pagamento</li></ul>"
+      }
+   ]
+}
